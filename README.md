@@ -1,5 +1,8 @@
 # Proxy Checker Script
 
+### Donation ``` TRC20 - TRWzXZE16bgJg3eHa9n8q4ioZjMgKHwF9a ```
+<img src="usdt.jpg" alt="Donation" width="150"/>
+
 This script checks the speed and ping of a list of proxies provided in a CSV file. It logs the results and saves them to an output CSV file.
 
 ## Features
